@@ -1,3 +1,4 @@
+
 .inline-block {
     display: inline-block;
     vertical-align: top;
@@ -32,9 +33,10 @@ footer {
 footer ul {
     display: inline-block;
     vertical-align: top;
-    padding: 50 25;
+    padding: 50px 25px;
 }
 
 footer li {
     padding: 0 10px;
+    color: white;
 }
